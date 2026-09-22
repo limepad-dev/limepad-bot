@@ -13,7 +13,7 @@ const FACTORY = "0x5dd70c957f264632BE0F33c5Ee801Dc10089DdF5";
 const FEE_LOCKER = "0x5a8cd3F31Fa8F558B435B76a935ec12950A1D2Bc";
 
 // Сколько блоков назад сканировать Swap-events (~15 минут)
-const SCAN_BLOCKS = 2000n;
+const SCAN_BLOCKS = 10000n;
 
 const CHAIN = {
   id: 4663,
