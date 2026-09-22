@@ -1,0 +1,11 @@
+{
+  "name": "limepad-bot",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "node scripts/collect-cron.mjs"
+  },
+  "dependencies": {
+    "viem": "^2.21.54"
+  }
+}
